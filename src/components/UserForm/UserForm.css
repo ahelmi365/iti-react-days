@@ -1,0 +1,5 @@
+/* Hide the default show password icon in Edge and IE */
+input::-ms-reveal {
+    display: none;
+  }
+  
